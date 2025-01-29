@@ -83,10 +83,10 @@ GEM
     crass (1.0.6)
     date (3.4.1)
     erubi (1.13.1)
-    factory_bot (6.4.5)
+    factory_bot (6.2.1)
       activesupport (>= 5.0.0)
-    factory_bot_rails (6.4.3)
-      factory_bot (~> 6.4)
+    factory_bot_rails (6.2.0)
+      factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
     ffi (1.15.5)
     globalid (1.2.1)
@@ -266,7 +266,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   capybara (>= 3.26)
-  factory_bot_rails
+  factory_bot_rails (= 6.2)
   ffi (~> 1.15.0)
   jbuilder (~> 2.7)
   listen (~> 3.3)
