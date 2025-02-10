@@ -17,6 +17,7 @@ gem 'webpacker', '~> 5.0'
 gem 'jbuilder', '~> 2.7'
 gem 'ffi', '~> 1.15.0'
 gem 'uri', '0.10.0'
+gem 'slim-rails'
 
 gem 'bcrypt', '~> 3.1.7'
 gem 'simple_form'
